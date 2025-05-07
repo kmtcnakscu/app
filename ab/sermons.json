@@ -1,0 +1,30 @@
+[
+    {
+        "title": "The Power of Persistent Prayer",
+        "category": "Sermons on Prayer",
+        "file": "audio/A Prospa_Ochimana__-__Out_Of_My_Belly_II_(Live)_feat._Theophilus_Sunday_&_Moses_Akoh(128k).m4a",
+        "speaker": "Pastor John Doe",
+        "duration": "45:30"
+    },
+    {
+        "title": "Faith in Action",
+        "category": "Sermons on Faith",
+        "file": "audio/faith-sermon.mp3",
+        "speaker": "Rev. Jane Smith",
+        "duration": "38:15"
+    },
+    {
+        "title": "Walking in Purity",
+        "category": "Sermons on Purity",
+        "file": "audio/purity-sermon.mp3",
+        "speaker": "Dr. Michael James",
+        "duration": "42:00"
+    },
+    {
+        "title": "Discovering Your Purpose",
+        "category": "Sermons on Purpose",
+        "file": "audio/purpose-sermon.mp3",
+        "speaker": "Bishop Peter Okoth",
+        "duration": "39:45"
+    }
+]
